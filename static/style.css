@@ -1,0 +1,33 @@
+body {
+    margin-top: 200opx;
+    margin-bottom: 100px;
+}
+
+a {
+    text-align: center;
+}
+
+.imgcontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* display: inline-block; */
+}
+
+h1 {
+    text-align: center;
+}
+
+.sign-in-text {
+    text-align: center;
+}
+
+a {
+    text-align: center;
+}
